@@ -9,9 +9,14 @@ b = 3
 sum_result = a + b
 
 c = 5
-d = 7
+d = 8
 sub_result = c - d
+
+e = 7
+f = 10
+multi_result = e*f
 
 # Print the result
 print("The sum of", a, "and", b, "is:", sum_result)
 print("The sub of", c, "and", d, "is:", sub_result)
+print("The multi of", e, "and", f, "is:", multi_result)
