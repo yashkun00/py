@@ -4,8 +4,8 @@
 print("Hello, world!")
 
 # Do a simple calculation
-a = 5
-b = 3
+a = 10
+b = 16
 sum_result = a + b
 
 c = 5
@@ -13,7 +13,7 @@ d = 8
 sub_result = c - d
 
 e = 7
-f = 10
+f = 100
 multi_result = e*f
 
 # Print the result
