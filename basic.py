@@ -4,12 +4,12 @@
 print("Hello, world!")
 
 # Do a simple calculation
-a = 10
-b = 16
+a = 5
+b = 6
 sum_result = a + b
 
 c = 5
-d = 8
+d = 7
 sub_result = c - d
 
 e = 7
