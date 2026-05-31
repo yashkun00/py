@@ -4,8 +4,8 @@
 print("Hello, world!")
 
 # Do a simple calculation
-a = 5
-b = 6
+a = 120
+b = 10
 sum_result = a + b
 
 c = 5
