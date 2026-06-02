@@ -1,11 +1,11 @@
 # Basic Python program
 
 
-print("Hello, world!")
+print("Hello world!")
 
 # Do a simple calculation
 a = 120
-b = 10
+b = 11
 sum_result = a + b
 
 c = 5
