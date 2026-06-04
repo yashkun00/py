@@ -1,7 +1,7 @@
 # Basic Python program
 
 
-print("Hello world!")
+print("hi")
 
 # Do a simple calculation
 a = 120
