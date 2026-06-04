@@ -8,12 +8,12 @@ a = 120
 b = 11
 sum_result = a + b
 
-c = 5
-d = 7
+c = 9
+d = 8
 sub_result = c - d
 
 e = 10
-f = 1
+f = 12
 multi_result = e*f
 
 # Print the result
