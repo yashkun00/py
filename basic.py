@@ -8,11 +8,11 @@ a = 120
 b = 11
 sum_result = a + b
 
-c = 9
-d = 8
+c = 50
+d = 10
 sub_result = c - d
 
-e = 10
+e = 11
 f = 12
 multi_result = e*f
 
