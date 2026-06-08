@@ -4,11 +4,11 @@
 print("hi")
 
 # Do a simple calculation
-a = 120
+a = 12
 b = 11
 sum_result = a + b
 
-c = 50
+c = 5
 d = 10
 sub_result = c - d
 
