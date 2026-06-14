@@ -1,10 +1,10 @@
 # Basic Python program
 
 
-print("hi")
+print("hello")
 
 # Do a simple calculation
-a = 12
+a = 18
 b = 11
 sum_result = a + b
 
