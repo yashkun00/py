@@ -12,8 +12,8 @@ c = 5
 d = 10
 sub_result = c - d
 
-e = 11
-f = 12
+e = 5
+f = 1
 multi_result = e*f
 
 # Print the result
