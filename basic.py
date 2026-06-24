@@ -3,9 +3,9 @@
 
 print("hello")
 
-# Do a simple calculation
-a = 18
-b = 11
+
+a = 1
+b = 1
 sum_result = a + b
 
 c = 5
@@ -22,8 +22,8 @@ print("The sub of", c, "and", d, "is:", sub_result)
 print("The multi of", e, "and", f, "is:", multi_result)
 
 
-x=1 
-y=20 
+x=12 
+y=2
 divide_result  = x/y 
 
 print("The divide of", x, "and", y, "is:", divide_result)
