@@ -5,11 +5,11 @@ print("hello")
 
 
 a = 1
-b = 1
+b = 2
 sum_result = a + b
 
 c = 5
-d = 10
+d = 1
 sub_result = c - d
 
 e = 5
