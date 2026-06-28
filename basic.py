@@ -1,7 +1,6 @@
-# Basic Python program
 
 
-print("hello")
+print("hey")
 
 
 a = 1
