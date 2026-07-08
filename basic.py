@@ -4,12 +4,16 @@ print("hey")
 
 
 a = 1
-b = 2
+b = 3
 sum_result = a + b
+print("result =  ")
+#(result = 4)
 
-c = 5
+c = 4
 d = 1
 sub_result = c - d
+print("result =  ")
+#(result = 3)
 
 e = 5
 f = 1
