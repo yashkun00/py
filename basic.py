@@ -4,10 +4,10 @@ print("hey")
 
 
 a = 1
-b = 3
+b = 2
 sum_result = a + b
 print("result =  ")
-#(result = 4)
+#(result = 3)
 
 c = 4
 d = 1
