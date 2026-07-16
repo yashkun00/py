@@ -9,11 +9,11 @@ sum_result = a + b
 print("result =  ")
 #(result = 3)
 
-c = 4
+c = 3
 d = 1
 sub_result = c - d
 print("result =  ")
-#(result = 3)
+#(result = 2)
 
 e = 5
 f = 1
