@@ -9,11 +9,12 @@ b = 2
 print("result =  ")
 #(result = 3)
 -------x------x---
-c =
+c = num
+d = num 
+return a-b
 
 c = 3
 d = 1
-result =
 print("result =  ")
 #(result = 2)
 
