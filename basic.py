@@ -1,17 +1,19 @@
-
-
-print("hellow world")
-
+print("hello world")
+------x-----x-----
+a = num
+b = num
+return a + b
 
 a = 1
 b = 2
-sum_result = a + b
 print("result =  ")
 #(result = 3)
+-------x------x---
+c =
 
 c = 3
 d = 1
-sub_result = c - d
+result =
 print("result =  ")
 #(result = 2)
 
