@@ -13,7 +13,7 @@ print("Result = ", result)
 # -----x--------x-------
 
 c = 3
-d = 1
+d = 2
 
 result = c - d
 print("Result = ", result)
@@ -22,7 +22,7 @@ print("Result = ", result)
 
 
 e = 5
-f = 1
+f = 11
 
 result = e*f
 print("Result: ", result)
