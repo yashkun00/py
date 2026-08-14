@@ -4,7 +4,7 @@ print("hello world")
 
 
 # ------x-----x-----
-a = 1
+a = 2
 b = 2
 
 result = a + b
@@ -12,7 +12,7 @@ print("Result = ", result)
 
 # -----x--------x-------
 
-c = 3
+c = 1
 d = 2
 
 result = c - d
