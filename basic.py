@@ -21,8 +21,8 @@ print("Result = ", result)
 # ------x-----x-----
 
 
-e = 7
-f = 1
+e = 2
+f = 2
 
 result = e*f
 print("Result: ", result)
