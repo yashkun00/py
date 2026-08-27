@@ -5,14 +5,14 @@ print("hello world")
 
 # ------x-----x-----
 a = 2
-b = 22
+b = 2
 
 result = a + b
 print("Result = ", result)
 
 # -----x--------x-------
 
-c = 1
+c = 3
 d = 2
 
 result = c - d
