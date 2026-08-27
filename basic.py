@@ -22,7 +22,7 @@ print("Result = ", result)
 
 
 e = 2
-f = 2
+f = 3
 
 result = e*f
 print("Result: ", result)
