@@ -22,7 +22,7 @@ print("Result = ", result)
 
 
 e = 2
-f = 3
+f = 1
 
 result = e*f
 print("Result: ", result)
@@ -30,7 +30,7 @@ print("Result: ", result)
 # ------x-----x---
 
 
-x=12 
+x=1
 y=2
 
 divide_result  = x/y 
