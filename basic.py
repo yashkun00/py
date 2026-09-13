@@ -30,8 +30,8 @@ print("Result: ", result)
 # ------x-----x---
 
 
-x=1
-y=2
+x = 12
+y = 2
 
 divide_result  = x/y 
 print("The divide of", x, "and", y, "is: ", divide_result)
