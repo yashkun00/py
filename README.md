@@ -21,7 +21,7 @@ This project contains simple examples of mathematical operations using Python va
 
 ---
 
-## 🛠️ Requirements
+### 🛠️ Requirements
 
 You only need:
 
