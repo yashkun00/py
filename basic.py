@@ -3,7 +3,7 @@ print("hello i am Yash")
 
 # ------x-----x-----
 a = 2
-b = 4
+b = 3
 
 result = a + b
 print("Result = ", result)
