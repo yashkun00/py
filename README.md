@@ -17,7 +17,7 @@ This project contains simple examples of mathematical operations using Python va
 | ➕ Addition        |   `+`  | `2 + 4 = 6`    |
 | ➖ Subtraction     |   `-`  | `8 - 5 = 3`    |
 | ✖️ Multiplication |   `*`  | `2 * 1 = 2`    |
-| ➗ Division        |   `/`  | `12 / 2 = 6.0` |
+| ➗ Division        |   `/`  | `12 / 2 = 6` |
 
 ---
 
